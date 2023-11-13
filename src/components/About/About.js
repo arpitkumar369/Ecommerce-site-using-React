@@ -14,7 +14,7 @@ export default class About extends Component {
 
         <Title name="Github Link for Project"/>
 
-        <a href="https://github.com/arpitkumar369/Ecommerce-site-using-React"><h1>Github</h1></a>
+        <a href="https://github.com/arpitkumar369/react-ecommerce"><h1>Github</h1></a>
 
         <h2>Created by Arpit Kumar</h2>
 
